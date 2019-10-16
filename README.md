@@ -9,4 +9,4 @@
 
 # mongodb.com/ Дотор
     Full Гэсэн DB үүсгээд posts гэсэн хүснэгт үүсгэв
-    
+    posts доторх нүд нь id, body, username, createdAt гэсэн байх хэрэгтэй.
