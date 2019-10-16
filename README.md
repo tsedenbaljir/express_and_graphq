@@ -6,3 +6,7 @@
     mongodb.com/ DB - үүсгэнэ
 
     config.js Дээр DB - тайгаа холбоно
+
+# mongodb.com/ Дотор
+    Full Гэсэн DB үүсгээд posts гэсэн хүснэгт үүсгэв
+    
